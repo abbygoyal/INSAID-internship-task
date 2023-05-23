@@ -2,7 +2,7 @@
 
 ## Live Project Link
 
-[React JS Landing Page App]()
+[React JS Landing Page App](https://insaid-internship.netlify.app/)
 
 # How to fork and clone
 
