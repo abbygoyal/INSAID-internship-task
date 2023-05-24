@@ -1,34 +1,21 @@
-# React JS Landing Page Template
+# INSAID-React JS Landing Page
 
-**
+## Live Project Link
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+[React JS Landing Page App](https://insaid-internship.netlify.app/)
 
-**
+# How to fork and clone
 
+One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+You can see the fork button in the top right corner of every GitHub project; click it and a copy of the project will be added to your GitHub profile under the same name as the original project.
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+![alt text](https://i.ibb.co/1YN7SJ6/Screen-Shot-2019-07-01-at-2-02-40-AM.png "image to fork button")
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely.
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
+# After you fork and clone:
 
+## Install dependencies
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
-
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
+In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
