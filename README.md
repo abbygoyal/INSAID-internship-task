@@ -1,5 +1,5 @@
 # INSAID-React JS Landing Page
-
+INSAID has designed the course after thorough research in a structured and well-thought-out way. It helps you in the real-world and practical aspects
 ## Live Project Link
 
 [React JS Landing Page App](https://insaid-internship.netlify.app/)
